@@ -29,6 +29,11 @@ console.log(q);
 let s = true
 let t = false
 
+// Array
+let arr = ["Tufail", "Baba", "Ankit", 10,true];
+console.log(arr);
+console.log(arr[0]);// Particular name
+console.log(arr[4]);
 
 
 
