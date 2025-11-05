@@ -12,6 +12,26 @@ console.log(c);
 console.log(b);
 console.log(d);
 
+// Some practice
+
+let y =  '"Tufail" is my name'
+console.log(y);
+let z =  "'Tufail'is my name"
+console.log(z);
+let n = `my fist name id "tufail" and my last name's baba` //usingbacktick
+console.log(n);
+// changing line 
+let q = `my fist name id 
+"tufail"`
+console.log(q);
 // Boolean
+
+let s = true
+let t = false
+
+
+
+
+
 
 
