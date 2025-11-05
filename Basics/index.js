@@ -12,5 +12,6 @@ console.log(c);
 console.log(b);
 console.log(d);
 
+// Boolean
 
 
